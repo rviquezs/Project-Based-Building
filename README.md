@@ -375,6 +375,8 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 
 ### Web Applications:
 
+- [Python API development and CI/CD pipelines with FastAPI, Docker and More](https://www.youtube.com/watch?v=0sOvCWFmrtA) (video)
+- [Full Stack Web App (Spotify Music Controller App) with Django and React](https://www.youtube.com/playlist?list=PLzMcBGfZo4-kCLWnGmK0jUBmGLaJxvi4j) (Video Playlist)
 - [Build a Microblog with Flask](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
 - [Create a Blog Web App In Django](https://tutorial.djangogirls.org/en/)
 - [Choose Your Own Adventure Presentations](https://www.twilio.com/blog/2015/03/choose-your-own-adventures-presentations-wizard-mode-part-1-of-3.html)
