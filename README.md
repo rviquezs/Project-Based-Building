@@ -2,6 +2,11 @@
 
 [![Gitter](https://badges.gitter.im/practical-tutorials/community.svg)](https://gitter.im/practical-tutorials/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
+This fork of practical-tutorial's/project-based-learning repo was created because the original repo has been abandoned, with the last commit made over a year ago.
+
+To continue the mission of helping learners engage with real-world coding projects, I've decided revive and try to enhance the project. I've merged contributions from the original repository, reviewing pull requests from the oldest to the newest, up to PR #501 on page 3. The remaining pull requests from pages 2 and 1 still need review for quality/relevance.
+---
+
 A list of programming tutorials in which aspiring software developers learn how to build an application from scratch. These tutorials are divided into different primary programming languages. Tutorials may involve multiple technologies and languages.
 
 To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines.
