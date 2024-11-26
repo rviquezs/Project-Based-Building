@@ -1,2 +1,2 @@
 - Table of content does not match the order of the presented content. Issue #140 PR #424.
-- 
+- Fixed issues #63 and #344 #444
