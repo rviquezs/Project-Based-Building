@@ -680,3 +680,4 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Hack Club Workshops](https://hackclub.com/workshops/)
 - [CodeCrafters](https://codecrafters.io/)
 - [Coding Challanges Newsletter](https://codingchallenges.substack.com/)
+- [Full Stack Open](https://fullstackopen.com/en)
