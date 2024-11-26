@@ -172,6 +172,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Tetris in ClojureScript](https://shaunlebron.github.io/t3tr0s-slides)
 
 ## Dart:
+- [Official Documentation](https://dart.dev/)
 
 ### Flutter:
 
