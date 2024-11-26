@@ -106,6 +106,14 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
   - [Part 7: Arrays](https://briancallahan.net/blog/20210822.html)
   - [Part 8: Strings, forward references, and conclusion](https://briancallahan.net/blog/20210826.html)
 
+## C#:
+- [Learn C# By Building a Simple RPG Game](http://scottlilly.com/learn-c-by-building-a-simple-rpg-index/)
+- [Create a Rogue-like game in C#](https://roguesharp.wordpress.com/)
+- [Create a Blank App with C# and Xamarin (work in progress)](https://www.intertech.com/Blog/xamarin-tutorial-part-1-create-a-blank-app/)
+- [Build iOS Photo Library App with Xamarin and Visual Studio](https://www.raywenderlich.com/134049/building-ios-apps-with-xamarin-and-visual-studio)
+- [Building the CoreWiki](https://www.youtube.com/playlist?list=PLVMqA0_8O85yC78I4Xj7z48ES48IQBa7p) This is a Wiki-style content management system that has been completely written in C# with ASP.NET Core and Razor Pages. You can find the source code [here](https://github.com/csharpfritz/CoreWiki).
+- [DotNetGuide](https://github.com/YSGStudyHards/DotNetGuide) This is a Chinese version of C#/.NET/.NET Core learning, working, interview guide tutorial, the tutorial includes content: C#/.NET/.NET Core basics, learning materials, videos, articles, books, frameworks, community organizations, essential tools for development and a summary of common interview questions.
+
 ### Network programming
 
 - Let's Code a TCP/IP Stack
